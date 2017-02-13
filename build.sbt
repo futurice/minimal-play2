@@ -3,6 +3,6 @@ lazy val root = (project in file("."))
   .settings(
     organization := "com.futurice",
     name := "minimal-play2",
-    version := "1.1.0",
+    version := "1.2.0",
     scalaVersion := "2.11.8"
   )
