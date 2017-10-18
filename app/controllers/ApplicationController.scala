@@ -1,8 +1,9 @@
 package controllers
 
-import play.api.mvc.{Action, Controller}
+import javax.inject.Inject
+import play.api.mvc.{ControllerComponents, AbstractController}
 
-class ApplicationController extends Controller {
+class ApplicationController @Inject() (cc: ControllerComponents) extends AbstractController(cc) {
   def index = Action {
     Ok("OK!")
   }

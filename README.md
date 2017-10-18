@@ -1,9 +1,9 @@
-Want to start your [Play 2](https://www.playframework.com/documentation/2.5.x/Home) development, but don't feel like dealing with all the extra fluff that comes with [Typesafe Activator](https://www.typesafe.com/activator/docs) or the example applications?
+Want to start your [Play 2](https://www.playframework.com/documentation/2.6.x/Home) development, but don't feel like dealing with all the extra fluff that comes with [the starter projects](https://playframework.com/download#starters) or the example applications?
 
-# The minimal setup for a Play framework 2.5.3 project
+# The minimal setup for a Play framework 2.6.6 project
 
 * Install [Sbt](http://www.scala-sbt.org/index.html)
-  * OS X: `brew install sbt`
+  * MacOS: `brew install sbt`
 * Clone this repo
 * In the root of this repo: `sbt`
 * In the Sbt console that just opened: `run`
