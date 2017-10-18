@@ -1,4 +1,4 @@
-Want to start your [Play 2](https://www.playframework.com/documentation/2.6.x/Home) development, but don't feel like dealing with all the extra fluff that comes with [Typesafe Activator](https://www.typesafe.com/activator/docs) or the example applications?
+Want to start your [Play 2](https://www.playframework.com/documentation/2.6.x/Home) development, but don't feel like dealing with all the extra fluff that comes with [the starter projects](https://playframework.com/download#starters) or the example applications?
 
 # The minimal setup for a Play framework 2.6.6 project
 
